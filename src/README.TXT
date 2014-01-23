@@ -1,1 +1,0 @@
-This project us used for learning algorithm.
