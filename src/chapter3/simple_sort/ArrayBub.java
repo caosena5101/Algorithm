@@ -31,6 +31,8 @@ class ArrayBub
 	public void bubbleSort()
 	{
 		int out, in;
+		//this is the original code, the out should bigger than 0
+//		for(out=nElems-1; out>1; out--) // outer loop(backward)
 		for(out=nElems-1; out>0; out--) // outer loop(backward)
 			for(in=0; in<out; in++) // inner loop (forward)
 				if( a[in] > a[in+1] ) // out of order?
