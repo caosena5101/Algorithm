@@ -1,7 +1,7 @@
 The Error code in the book's original code:
 
-1.the bubbleSort method in chapter3.simple_sort.ArrayBub class
-
-2.the isEmpty method in champter4.queue2.Queue class
+	1.the bubbleSort method in chapter3.simple_sort.ArrayBub class
+	
+	2.the isEmpty method in champter4.queue2.Queue class
 
 
